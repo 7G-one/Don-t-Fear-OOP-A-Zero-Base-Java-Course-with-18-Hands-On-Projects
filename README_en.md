@@ -1,4 +1,4 @@
-<p align="center"><b><a href="README.md">中文</a> | <a href="README_en.md">English</a></b></p>
+<h3 align="center"><a href="README.md">中文</a> | <a href="README_en.md">English</a></h3>
 
 # ☕ Java Board-Style Teaching Course
 
