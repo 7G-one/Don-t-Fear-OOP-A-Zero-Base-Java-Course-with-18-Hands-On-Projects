@@ -1,4 +1,4 @@
-**[中文](README.md)** | **[English](README_en.md)**
+<p align="center"><b><a href="README.md">中文</a> | <a href="README_en.md">English</a></b></p>
 
 # ☕ Java Board-Style Teaching Course
 

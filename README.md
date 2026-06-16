@@ -1,6 +1,6 @@
 # ☕ Java 板书教学课程
 
-**[中文](README.md)** | **[English](README_en.md)**
+<p align="center"><b><a href="README.md">中文</a> | <a href="README_en.md">English</a></b></p>
 
 > 从 System.out.println 到搭建完整的图书管理系统
 
