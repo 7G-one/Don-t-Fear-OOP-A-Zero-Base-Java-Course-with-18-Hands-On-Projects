@@ -1,5 +1,7 @@
 # ☕ Java 板书教学课程
 
+**[中文](README.md)** | **[English](README_en.md)**
+
 > 从 System.out.println 到搭建完整的图书管理系统
 
 ## 这是什么？
