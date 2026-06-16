@@ -144,6 +144,7 @@ class Variables {
         String empty = "";           // 空字符串也是合法的
         System.out.println("名字：" + name);
         System.out.println("问候：" + greeting);
+        System.out.println("空字符串长度：" + empty.length());
 
         // 字符串拼接：用 + 号可以把多个字符串连起来
         String firstName = "张";
